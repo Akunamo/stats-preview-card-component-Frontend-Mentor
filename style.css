@@ -84,7 +84,7 @@ main {
 }
 
 .title {
-    font-size: 28px;
+    font-size: 30px;
     margin-bottom: 1.7rem;
     margin-inline: auto;
     max-width: 290px;
@@ -120,7 +120,7 @@ li:nth-child(1n+2) {
 }
 
 .stats-value {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
     letter-spacing: 1px;
     margin-bottom: .2em;
