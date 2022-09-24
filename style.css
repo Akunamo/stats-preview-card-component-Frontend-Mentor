@@ -148,7 +148,7 @@ li:nth-child(1n+2) {
 
     main {
         flex-direction: row;
-        max-width: 900px;
+        max-width: 1000px;
         text-align: left;
     }
 
